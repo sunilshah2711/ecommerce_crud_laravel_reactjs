@@ -1,0 +1,43 @@
+/ecom-backend/.phpunit.cache
+/ecom-backend/node_modules
+/ecom-backend/public/build
+/ecom-backend/public/hot
+/ecom-backend/public/storage
+/ecom-backend/storage/*.key
+/ecom-backend/vendor
+/ecom-backend/.env
+/ecom-backend/.env.backup
+/ecom-backend/.env.production
+/ecom-backend/.phpunit.result.cache
+/ecom-backend/Homestead.json
+/ecom-backend/Homestead.yaml
+/ecom-backend/auth.json
+/ecom-backend/npm-debug.log
+ecom-backend/yarn-error.log
+/ecom-backend/.fleet
+/ecom-backend/.idea
+/ecom-backend/.vscode
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/ecom-dashboard/node_modules
+/ecom-dashboard/.pnp
+/ecom-dashboard/.pnp.js
+
+# testing
+/ecom-dashboard/coverage
+
+# production
+/ecom-dashboard/build
+
+# misc
+/ecom-dashboard/.DS_Store
+/ecom-dashboard/.env.local
+/ecom-dashboard/.env.development.local
+/ecom-dashboard/.env.test.local
+/ecom-dashboard.env.production.local
+
+/ecom-dashboard/npm-debug.log*
+/ecom-dashboard/yarn-debug.log*
+/ecom-dashboard/yarn-error.log*
